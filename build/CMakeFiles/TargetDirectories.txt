@@ -1,0 +1,3 @@
+F:/Projects/_academic/cse20/SFML_Game/build/CMakeFiles/SFML_Game.dir
+F:/Projects/_academic/cse20/SFML_Game/build/CMakeFiles/edit_cache.dir
+F:/Projects/_academic/cse20/SFML_Game/build/CMakeFiles/rebuild_cache.dir
